@@ -1,0 +1,10 @@
+/Users/tejada/Downloads/todolist/src/main/java/com/todolist/TodolistApplication.java
+/Users/tejada/Downloads/todolist/src/main/java/com/todolist/task/TaskController.java
+/Users/tejada/Downloads/todolist/src/main/java/com/todolist/errors/ExceptionHandlerController.java
+/Users/tejada/Downloads/todolist/src/main/java/com/todolist/user/IUserRepository.java
+/Users/tejada/Downloads/todolist/src/main/java/com/todolist/filter/FilterTaskAuth.java
+/Users/tejada/Downloads/todolist/src/main/java/com/todolist/user/UserController.java
+/Users/tejada/Downloads/todolist/src/main/java/com/todolist/task/ITaskRepository.java
+/Users/tejada/Downloads/todolist/src/main/java/com/todolist/user/UserModel.java
+/Users/tejada/Downloads/todolist/src/main/java/com/todolist/utils/Utils.java
+/Users/tejada/Downloads/todolist/src/main/java/com/todolist/task/TaskModel.java
