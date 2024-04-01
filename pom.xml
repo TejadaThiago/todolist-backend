@@ -14,7 +14,7 @@
 	<name>todolist</name>
 	<description>Todo List Rocktseat </description>
 	<properties>
-		<java.version>22</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
