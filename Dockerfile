@@ -9,7 +9,7 @@ RUN apt-get install maven -y
 
 RUN mvn clean install
 
-FROM openjdk:22-jdk-slim
+FROM openjdk:22-jdk
 
 EXPOSE 8080
 
