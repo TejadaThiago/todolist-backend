@@ -3,4 +3,4 @@
 - Spring Boot
 
   
-Projeto Todo List feito com java no mini curso de Java da Rockeseat.
+Projeto Todo List feito com java no mini curso de Java da Rocketseat.
